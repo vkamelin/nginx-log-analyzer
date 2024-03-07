@@ -12,7 +12,7 @@
 ## Installation
 
 ```bash
-composer require diwms/nginx-log-analyzer
+composer require vkamelin/nginx-log-analyzer
 ```
 
 ## Usage

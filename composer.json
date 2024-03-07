@@ -1,5 +1,5 @@
 {
-    "name": "diwms/nginx-log-analyzer",
+    "name": "vkamelin/nginx-log-analyzer",
     "description": "Analyze/Parse Nginx log using php",
     "homepage": "https://github.com/diwms/nginx-log-analyzer",
     "license": "MIT",
